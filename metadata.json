@@ -67,9 +67,6 @@
 			"name": "puppetlabs/concat",
 			"version_requirement": "2.x"
 		},
-		{
-			"name": "cristifalcas/docker",
-			"version_requirement": "5.x"
-		}
+		
 	]
 }
