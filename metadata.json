@@ -57,6 +57,6 @@
 		"kubernetes-master",
 		"kubernetes-node",
 		"kubernetes-client"
-	],
+	]
 	
 }
